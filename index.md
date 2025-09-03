@@ -1,7 +1,3 @@
----
-title: Welcome to my blog
----
-
 # **Class Syllabus**
 
 **![physcomp.png][image1]**
